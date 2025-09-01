@@ -57,7 +57,7 @@ body {
 }
 
 .navegacao-principal ul li{
-    border: solid gray 1px;
+    border: solid rgba(42, 57, 45, 0.505) 2px;
 }
 
 .navegacao-principal.ativo ul {
